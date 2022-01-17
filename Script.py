@@ -1,8 +1,8 @@
 class script(object):
     START_TXT = """NAMASTE {},
-𝙼ERA NAAM HAI<a href=https://t.me/{}>{}</a>, MAI APKO LAKAR DUNGA 𝙼𝙾𝚅𝙸𝙴𝚂 & WEB SERIES,BASS 𝙰𝙳𝙳 KIJIYE MUJHE AAPKE 𝙶𝚁𝙾𝚄𝙿 MEIN 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
-    HELP_TXT = """𝙷AAN JI {}
-YE HAI HELP 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+Mera Naam Hai<a href=https://t.me/{}>{}</a>, Mai Apko Lakar Dunga Movies & Web Series,Bass Add Kijiye Mujhe Aapke Group Mein & Enjoy 😍"""
+    HELP_TXT = """Haan Ji {}
+Ye Hai Help For My Commands."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/maveriicckkk>Team Movies Masti Magic</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
