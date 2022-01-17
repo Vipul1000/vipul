@@ -16,7 +16,7 @@ Ye Hai Help For My Commands."""
 
 <b>DEVS:</b>
 - <a href=https://t.me/Maveriicckkk>Team Movies Masti Magic</a>"""
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+    MANUALFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Maveriicckkk24*7 will respond whenever a keyword is found the message
 
@@ -35,7 +35,7 @@ Ye Hai Help For My Commands."""
 - Maveriicckkk24*7 Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
-1. Telegram will not allows you to send buttons without any content, so content is mandatory.
+1. Telegram will not allow you to send buttons without any content, so content is mandatory.
 2. Maveriicckkk24*7 supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
@@ -67,7 +67,7 @@ Ye Hai Help For My Commands."""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+these are the extra features of Maveriicckkk24*7
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
